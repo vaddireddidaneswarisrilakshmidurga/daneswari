@@ -1,2 +1,2 @@
 # daneswari
-IT depository
+IT repository
